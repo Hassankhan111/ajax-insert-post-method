@@ -1,0 +1,1 @@
+# ajax-insert-post-method
